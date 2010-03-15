@@ -2,7 +2,7 @@
 
 A Sinatra-based plugin template for displaying a user metrics dashboard in Rails applications.
 
-This plugin provides a starting point for creating a dashboard to view user metrics for an application. I created it to provide an overview of activity in the [Biblioti.com ebook publishing platform](http://biblioti.com) with inspiration from [other metrics dashboards](http://www.mindscape.co.nz/staff/johndaniel/index.php/2010/03/business-porn-the-company-dashboard/).
+This plugin provides a starting point for creating a dashboard to view user metrics for an application. Inspired by [other metrics dashboards](http://www.mindscape.co.nz/staff/johndaniel/index.php/2010/03/business-porn-the-company-dashboard/).
 
 In its current form, it assumes you are using Authlogic with a `User` model and shows some basic information about recent sign ups and, if your `User` model has a `last_request_at` attribute, information about active users. Edit the plugin as necessary for your application.
 

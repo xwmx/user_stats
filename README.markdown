@@ -8,7 +8,7 @@ In its current form, it assumes you are using Authlogic with a `User` model and 
 
 ## Installation
 
-    $ script/plugin install git://github.com/autodata/user_stats.git
+    $ script/plugin install git://github.com/alphabetum/user_stats.git
 
 Add the following to `config/environment.rb`
 

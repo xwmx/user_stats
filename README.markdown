@@ -39,4 +39,8 @@ If you want to be able to reload the plugin's templates as you edit them, add th
 
 Run `script/server` and point your browser to `http://localhost:3000/__user_stats`
 
+# Screenshot
+
+![User Stats](http://imgur.com/yBah7.png)
+
 Copyright (c) 2010 William Melody, released under the MIT license

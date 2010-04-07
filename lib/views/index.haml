@@ -3,6 +3,14 @@
   %title User Stats
   %link{:href=>"/__user_stats.css", :media=>"screen, projection", :rel=>"stylesheet", :type=>"text/css"}
 %body
+  #nav-bar
+    #nav-container
+      #site-nav
+        %a{:href => "/"} Home
+      #user-nav
+        = current_user.email
+        |
+        %a{:href => "/logout"} Logout
   #wrapper
     %h1 User Stats
     .quick-stats

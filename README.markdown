@@ -41,6 +41,7 @@ Run `script/server` and point your browser to `http://localhost:3000/__user_stat
 
 # Screenshot
 
-![User Stats](http://imgur.com/yBah7.png)
+<img src="https://github.com/alphavetum/user_stats/raw/master/screenshot.png" alt="Screenshot" />
+
 
 Copyright (c) 2010 William Melody, released under the MIT license
